@@ -13,6 +13,8 @@ int main(){
 	printf("#---------de-------# \n");     // Mostrar na tela 
 	printf("#------ Notas -----# \n \n");
 	
+		printf("#------ Notas -----# \n \n");
+	
 	printf("Digite a primeira nota: "); // Mostrar na tela o pedido da nota 1
 	scanf("%f", &nota1);				// pegar nota 1 e guardar na variavel nota1
 	
