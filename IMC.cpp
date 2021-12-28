@@ -1,10 +1,13 @@
 #include<stdlib.h>
 #include<stdio.h>
 
+
+
 int main(){
 	
 	float peso;
 	float altura; 
+
 	float imc;
 	float teste;
 	
